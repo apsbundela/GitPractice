@@ -1,0 +1,51 @@
+
+
+Queue 
+	Queue is linear data Structure ,which follows Li
+Rear : Insertion
+Front : Deletion
+
+No. Of Elements = Rear - Front +1
+
+Operations on queue can be perform are :
+			1.Enqueue
+			2.Dequeue
+			Peek
+
+Real Time Example Of Simple Queue
+1. Email
+2. Printing page using printer 
+3.whatsap message
+4.Scheduling Algo 
+
+Real Time Example Of Simple Queue
+1.
+Queue can be represent/Implement Using following way
+1.Array
+2.List
+
+
+Types Of Queue
+1.Simple Queue
+2.Circular Queue
+3.Priority Queue
+4.Deque
+
+---------------+Deque(Double Ended Queue)---------------------
+
+Types of Deque
+1.Input Restricted Deque
+	-Input :One End
+	-Output :BOth End
+2.Output Restricted Deque
+	-Input :BOth  End
+	-Output :One End
+
+Operation
+1.InsertFront()
+2.InsertRear()
+3.delete Front()
+4.Delete Rear()
+5.IsFull()
+6.ISEmpty()
+7.display()

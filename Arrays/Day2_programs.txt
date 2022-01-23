@@ -1,0 +1,16 @@
+A]Write a program to create one Dimension Array and perform
+1)Insertion of element
+2)Deletion of element
+3)Search a particular element in array
+4)Find sum of elements in array
+5)Display elements of array in reverse manner
+6)Merge 2 array and display 
+7)Copy one array to another
+
+
+B]Tower of Hanoi problem to shift n discs from one pole to another recursively
+
+C] Write a program to create Two Dimension Array and perform
+1)Addition 
+2)Subtraction
+3)Multiplication
