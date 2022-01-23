@@ -42,7 +42,7 @@ class CQueue1{
 				front =0;
 			rear = (rear+1)%size;//CQ[4]==>CQ[0]
 			CQ[rear] = x;
-			System.out.println(x+" Inserted.");
+			System.out.println(x + " Inserted.");
 			
 		}
 	}
